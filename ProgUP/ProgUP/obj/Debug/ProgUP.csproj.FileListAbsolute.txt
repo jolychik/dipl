@@ -1,0 +1,250 @@
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.pdb
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.dll
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Properties.Resources.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.GenerateResource.Cache
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OperatorForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AutorisationForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OwnerForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csprojResolveAssemblyReference.cache
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AdminForm.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.pdb
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.xml
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AdminForm.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AutorisationForm.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OperatorForm.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OwnerForm.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Properties.Resources.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.GenerateResource.cache
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CoreCompileInputs.cache
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CopyComplete
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\Google.Protobuf.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\System.Memory.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\System.Buffers.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe.config
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddOwnerForm.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddCarsForm.resources
+C:\Users\AJK\Desktop\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddReportForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddReportForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddOwnerForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddCarsForm.resources
+D:\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+D:\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+D:\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe
+D:\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.pdb
+D:\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.dll
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csprojResolveAssemblyReference.cache
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddReportForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AdminForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AutorisationForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddOwnerForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddCarsForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OperatorForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OwnerForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Properties.Resources.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.GenerateResource.Cache
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditCarsForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditOwnerForm.resources
+D:\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditReportForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csprojResolveAssemblyReference.cache
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddReportForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AdminForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AutorisationForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddOwnerForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddCarsForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditCarsForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditOwnerForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditReportForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OperatorForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OwnerForm.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Properties.Resources.resources
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.GenerateResource.Cache
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.pdb
+\\adminsrv\USRPROGS\pr184rvo-06\Рабочий стол\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.dll
+E:\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+E:\stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+E:\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+E:\stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.pdb
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\Google.Protobuf.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\Zstandard.Net.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\Renci.SshNet.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\System.Memory.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\System.Buffers.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe.config
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.CarTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ColorTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.InspecTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.MarkTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OperatorTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.RegionTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ReportTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OwnerTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddReportForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AdminForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AutorisationForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddOwnerForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddCarsForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditCarsForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditOwnerForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditReportForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OperatorForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OwnerForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Properties.Resources.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.GenerateResource.cache
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CoreCompileInputs.cache
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CopyComplete
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.ResolveComReference.cache
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.FineTableForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.DateToDateForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.RegionSelectForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.dll
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.xml
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Forms.ImportForm.resources
+C:\Users\AJK\Desktop\stud\KollegeStuff\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.AssemblyReference.cache
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\bin\Debug\ZstdNet.dll
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.AssemblyReference.cache
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.ResolveComReference.cache
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.CarTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ColorTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.FineTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.InspecTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.MarkTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OperatorTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.RegionTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ReportTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OwnerTableForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditCarsForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditOwnerForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditReportForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Forms.ImportForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.DateToDateForm.resources
+C:\Users\AJK\Desktop\Stud\3Курс\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.RegionSelectForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.pdb
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\Google.Protobuf.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\ZstdNet.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\System.Memory.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\System.Buffers.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.xml
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.AssemblyReference.cache
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe.config
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.ResolveComReference.cache
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.CarTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ColorTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.FineTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.InspecTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.MarkTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OperatorTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.RegionTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ReportTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OwnerTableForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddReportForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AdminForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AutorisationForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddOwnerForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddCarsForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditCarsForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditOwnerForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditReportForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Forms.ImportForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OperatorForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OwnerForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.DateToDateForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.RegionSelectForm.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Properties.Resources.resources
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.GenerateResource.cache
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CoreCompileInputs.cache
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CopyComplete
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+D:\Downloads\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe.config
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.XML
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.exe
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\ProgUP.pdb
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\Google.Protobuf.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\System.Buffers.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.AssemblyReference.cache
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.SuggestedBindingRedirects.cache
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe.config
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.ResolveComReference.cache
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.CarTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ColorTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.FineTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.InspecTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.MarkTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OperatorTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.RegionTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.ReportTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.FormsForAdmin.OwnerTableForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddReportForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AdminForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AutorisationForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddOwnerForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.AddCarsForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditCarsForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditOwnerForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.EditReportForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Forms.ImportForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OperatorForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.forms.OwnerForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.DateToDateForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.HelpForms.RegionSelectForm.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.Properties.Resources.resources
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.GenerateResource.cache
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CoreCompileInputs.cache
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.csproj.CopyComplete
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.exe
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\obj\Debug\ProgUP.pdb
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\Zstandard.Net.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\Renci.SshNet.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jolyc\Desktop\C#UP\ProgUP\ProgUP\bin\Debug\MySql.Data.xml

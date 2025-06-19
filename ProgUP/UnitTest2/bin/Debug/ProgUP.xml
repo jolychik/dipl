@@ -1,0 +1,903 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProgUP</name>
+    </assembly>
+    <members>
+        <member name="M:ProgUP.classes.AddTable.AddCarOwner(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Добавление в таблицу владельцев автотранспорта
+            </summary>
+            <param name="firstName">Имя</param>
+            <param name="secondName">Фамилия</param>
+            <param name="patronomyc">Отчество</param>
+            <param name="idDriverRights">Номерв водительских прав</param>
+            <param name="ownerRegDate">Дата регистрации владельца</param>
+            <param name="adres">Адрес проживания</param>
+            <param name="email">Эл. почта</param>
+            <param name="login">Логин</param>
+            <param name="password">Пароль</param>
+            <param name="telephone">Телефон</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddCar(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Добавление нового автотранспорта
+            </summary>
+            <param name="pts">ПТС номер</param>
+            <param name="idmark">Номер марки</param>
+            <param name="idcolor">Номер цвета</param>
+            <param name="idowner">Номер владельца</param>
+            <param name="model">Модель машины</param>
+            <param name="reliseDate">Дата выпуска</param>
+            <param name="gosNum">Государственный номер машины</param>
+            <param name="regDate">Дата регистрации машины</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddReport(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Добавление рапортов
+            </summary>
+            <param name="idBadge">Номер значка инспектора</param>
+            <param name="imcTime">Время совершения инцидента</param>
+            <param name="datesost">Дата составления рапорта</param>
+            <param name="idReg">Номер региона</param>
+            <param name="idowner">Номер владельца машины</param>
+            <param name="idFine">Номер штрафа</param>
+            <param name="sum">Сумма штрафа</param>
+            <param name="plandate">Назначеная дата оплаты</param>
+            <param name="oplata">Статус оплаты</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.UpdateShtrafSum(System.String)">
+            <summary>
+            Для обновления информации о задолжности в таблице владельца
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddColors(System.String)">
+            <summary>
+            Добавление цветов
+            </summary>
+            <param name="color">цвет</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddRegion(System.String)">
+            <summary>
+            Добавление региона
+            </summary>
+            <param name="region">регион</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddMark(System.String)">
+            <summary>
+            Добавление марки
+            </summary>
+            <param name="mark">марка</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddInpector(System.String,System.String,System.String,System.String)">
+            <summary>
+            Добавление инспектора
+            </summary>
+            <param name="fio">Имя, фамилия, отчество</param>
+            <param name="adres">Адрес проживания</param>
+            <param name="telephone">Телефон</param>
+            <param name="birtDate">Дата рождения</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddFine(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Добавление штрафа
+            </summary>
+            <param name="describeFine">В чём накасячил водила</param>
+            <param name="type">тип</param>
+            <param name="atention">предупреждение на лишение прав</param>
+            <param name="rightDep">лишаем прав?</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.AddTable.AddOperator(System.String,System.String,System.String)">
+            <summary>
+            Добавление оператора
+            </summary>
+            <param name="fio">Имя, фамилия, отчество</param>
+            <param name="login">логин</param>
+            <param name="password">пароль</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.DeleteTable.DeleteOwner(System.String)">
+            <summary>
+            Удаление владельца машины
+            </summary>
+            <param name="idOwner">Номер владельца</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.DeleteTable.DeleteCar(System.String)">
+            <summary>
+            Удаление машины
+            </summary>
+            <param name="PTSnum">Номер ПТС</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.DeleteTable.DeleteReport(System.String)">
+            <summary>
+            Удаление рапорта
+            </summary>
+            <param name="idReport">Номер рапорта</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.OwnerEdit(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Метод редактирования владельцев автомобилей
+            </summary>
+            <param name="idOwner">номер записи/номер владельца</param>
+            <param name="firstName">Имя</param>
+            <param name="secondName">Фамилия</param>
+            <param name="patronomyc">Отчество</param>
+            <param name="idDriverRights">Номер водительских прав</param>
+            <param name="ownerRegDate">Дата регистрации владельца</param>
+            <param name="adres">Адрес проживания</param>
+            <param name="email">Электронная почта</param>
+            <param name="login">Логин</param>
+            <param name="password">Пароль</param>
+            <param name="telephone">Контактный телефон</param>
+            <param name="sumDolg">Сумма долгов</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.CarEdit(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Редактирование данных о машинах
+            </summary>
+            <param name="PTSnum">Номер ПТС</param>
+            <param name="idMark">Номер марки</param>
+            <param name="idColor">Номер цвета</param>
+            <param name="idowner">Номер владельца</param>
+            <param name="model">Модель</param>
+            <param name="reliseDate">Дата выпуска</param>
+            <param name="gosNum">Гос номер</param>
+            <param name="regDate">Дата регистрации</param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.ReportEdit(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Редактирование репорта
+            </summary>
+            <param name="idReport"></param>
+            <param name="idBadge"></param>
+            <param name="imcTime"></param>
+            <param name="datesost"></param>
+            <param name="idReg"></param>
+            <param name="idowner"></param>
+            <param name="idFine"></param>
+            <param name="sum"></param>
+            <param name="plandate"></param>
+            <param name="factdate"></param>
+            <param name="oplat"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.DolgEdit(System.String,System.String)">
+            <summary>
+            Изменение суммы долга пользователя
+            </summary>
+            <param name="own"></param>
+            <param name="rep"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.ColorEdit(System.String,System.String)">
+            <summary>
+            Редактирование цветов
+            </summary>
+            <param name="id"></param>
+            <param name="color"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.RegionEdit(System.String,System.String)">
+            <summary>
+            Редактирование регион
+            </summary>
+            <param name="id"></param>
+            <param name="region"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.MarkEdit(System.String,System.String)">
+            <summary>
+            Редактирование марки
+            </summary>
+            <param name="id"></param>
+            <param name="mark"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.InspectorEdit(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Редактирование инспекторов
+            </summary>
+            <param name="id"></param>
+            <param name="fio"></param>
+            <param name="adres"></param>
+            <param name="telephone"></param>
+            <param name="birtDate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.FineEdit(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Редактирование штрафов
+            </summary>
+            <param name="id"></param>
+            <param name="describeFine"></param>
+            <param name="type"></param>
+            <param name="atention"></param>
+            <param name="rightDep"></param>
+            <param name="srok"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.EditTable.OperatorEdit(System.String,System.String,System.String,System.String)">
+            <summary>
+            Редактирование операторов
+            </summary>
+            <param name="id"></param>
+            <param name="fio"></param>
+            <param name="login"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.RepOlataFilter(System.String)">
+            <summary>
+            Фильтрация рапортов по статусу оплаты
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.RepInspectorFilter(System.String)">
+            <summary>
+            Фильтрация рапортов по инспекторам
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.RepRegionFilter(System.String)">
+            <summary>
+            Фильтрация рапортов по региону
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.RepFineFilter(System.String)">
+            <summary>
+            Фильтрация рапортов по виду штрафа
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.RepOwnerFilter(System.String)">
+            <summary>
+            Фильтрация рапортов по владельцу
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.RepDateSostFilter(System.String)">
+            <summary>
+            Фильтрация рапортов по дате составления
+            </summary>
+            <param name="date"></param>
+        </member>
+        <member name="M:ProgUP.classes.Filters.MarkFilter(System.String)">
+            <summary>
+            Фильтрация машин по марке
+            </summary>
+            <param name="stat"></param>
+        </member>
+        <member name="M:ProgUP.classes.Filters.ColorFilter(System.String)">
+            <summary>
+            Фильтрация машин по цвету
+            </summary>
+            <param name="stat"></param>
+        </member>
+        <member name="M:ProgUP.classes.Filters.OwnFilter(System.String)">
+            <summary>
+            Фильтрация машин по владельцу
+            </summary>
+            <param name="stat"></param>
+        </member>
+        <member name="M:ProgUP.classes.Filters.DolgNullFilter">
+            <summary>
+            Фильтрация пользователей по долгу(нет)
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Filters.DolgNotNullFilter">
+            <summary>
+            Фильтрация пользователей по долгу(есть)
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Filters.RegDateFilter(System.String)">
+            <summary>
+            Фильтрация пользователей по дате регистрации
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Filters.IndOplataFilter(System.String,System.String)">
+            <summary>
+            Фильтрация рапортов по статусу оплаты
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.IndInspectorFilter(System.String,System.String)">
+            <summary>
+            Фильтрация рапортов по инспекторам
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.IndRegionFilter(System.String,System.String)">
+            <summary>
+            Фильтрация рапортов по региону
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.IndFineFilter(System.String,System.String)">
+            <summary>
+            Фильтрация рапортов по виду штрафа
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Filters.IndDateSostFilter(System.String,System.String)">
+            <summary>
+            Фильтрация рапортов по дате составления
+            </summary>
+            <param name="date"></param>
+        </member>
+        <member name="M:ProgUP.classes.Filters.IndMarkFilter(System.String,System.String)">
+            <summary>
+            Фильтрация машин по марке
+            </summary>
+            <param name="stat"></param>
+        </member>
+        <member name="M:ProgUP.classes.Filters.IndColorFilter(System.String,System.String)">
+            <summary>
+            Фильтрация машин по цвету
+            </summary>
+            <param name="stat"></param>
+        </member>
+        <member name="M:ProgUP.classes.Tables.OwnerShow">
+            <summary>
+            Отображение владельцев машин
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.CarShow">
+            <summary>
+            Отображение машин
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.ReportsShow">
+            <summary>
+            Отображение рапортов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.ColorShow">
+            <summary>
+            Отображение цветов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.MarkShow">
+            <summary>
+            Отображение марок
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.RegionShow">
+            <summary>
+            Отображение регионов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.FineShow">
+            <summary>
+            Отображение штрафов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.InspectorShow">
+            <summary>
+            Отображение инспекторов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.OperatorShow">
+            <summary>
+            Отображение операторов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.IndOwnerShow(System.String)">
+            <summary>
+            Отображение владельцев машин только для определённого пользователя
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.ReportsOwnerShow(System.String)">
+            <summary>
+            Отбражение рапортов для владельцев
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.SMark">
+            <summary>
+            Марки (справочник)
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.SColor">
+            <summary>
+            Цвета машин (справочник)
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.Region">
+            <summary>
+            Региона города
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.Drivers">
+            <summary>
+            Виртуальная таблица для комбобоксов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.Inspectors">
+            <summary>
+            Виртуальная таблица для комбобоксов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.Fine">
+            <summary>
+            Виртуальная таблица для комбобоксов
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.Tables.SeconNameExcel(System.String)">
+            <summary>
+            Для имени на экзель файле
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProgUP.classes.Autorisation.Autoriz(System.String,System.String)">
+            <summary>
+            Авторизация
+            </summary>
+            <param name="login">Логин конечно</param>
+            <param name="password">Соответственно пароль</param>
+        </member>
+        <member name="M:ProgUP.classes.CheckStuff.LogAndPasEmpty(System.String,System.String)">
+            <summary>
+            Проверка на заполненные поля авторизации
+            </summary>
+            <param name="log">для логина</param>
+            <param name="pass">вы не поверите, это для пароля</param>
+        </member>
+        <member name="M:ProgUP.classes.CheckStuff.EmailCorrect(System.String)">
+            <summary>
+            Проверка на кооректность введённой почты
+            </summary>
+            <param name="email">Поле для Email</param>
+            <returns>false - ошибка</returns>
+        </member>
+        <member name="M:ProgUP.classes.CheckStuff.KirillicLatters(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            Ограничение на ввод только букв кириллицы
+            </summary>
+            <param name="e">просто параметр для события</param>
+        </member>
+        <member name="M:ProgUP.classes.CheckStuff.LatinLatters(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            Ограничение на ввод только букв латиницы
+            </summary>
+            <param name="e">просто параметр для события</param>
+        </member>
+        <member name="M:ProgUP.classes.CheckStuff.Numbers(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            Ограничение на ввод только цифр
+            </summary>
+            <param name="e">просто параметр для события</param>
+        </member>
+        <member name="M:ProgUP.classes.CheckStuff.LatinAndNumbers(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            Ограничение на ввод только букв латиницы и цифр
+            </summary>
+            <param name="e">просто параметр для события</param>
+        </member>
+        <member name="M:ProgUP.classes.CheckStuff.KirillicAndNumbers(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            Ограничение на ввод только букв кириллицы и цифр
+            </summary>
+            <param name="e">просто параметр для события</param>
+        </member>
+        <member name="M:ProgUP.classes.MySQLconnect.BDConnect">
+            <summary>
+            Подключение к БД
+            </summary>
+        </member>
+        <member name="M:ProgUP.classes.MySQLconnect.closeBD">
+            <summary>
+            Отключение БД
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.CarTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.CarTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.CarTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.ColorTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.ColorTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.ColorTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.FineTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.FineTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.FineTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.InspecTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.InspecTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.InspecTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.MarkTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.MarkTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.MarkTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.OperatorTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.OperatorTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.OperatorTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.RegionTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.RegionTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.RegionTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.ReportTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.ReportTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.ReportTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.FormsForAdmin.OwnerTableForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.OwnerTableForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.FormsForAdmin.OwnerTableForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.AddReportForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.AddReportForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.AddReportForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.AdminForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.AdminForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.AdminForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.AutorisationForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.AutorisationForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.AutorisationForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.AddOwnerForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.AddOwnerForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.AddOwnerForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.AddCarsForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.AddCarsForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.AddCarsForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.EditCarsForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.EditCarsForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.EditCarsForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.EditOwnerForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.EditOwnerForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.EditOwnerForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.EditReportForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.EditReportForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.EditReportForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.OperatorForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.OperatorForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.OperatorForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.forms.OwnerForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.forms.OwnerForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.forms.OwnerForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.Forms.ImportForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.Forms.ImportForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.Forms.ImportForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.HelpForms.DateToDateForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.HelpForms.DateToDateForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.HelpForms.DateToDateForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ProgUP.HelpForms.RegionSelectForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProgUP.HelpForms.RegionSelectForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProgUP.HelpForms.RegionSelectForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ProgUP.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:ProgUP.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ProgUP.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ProgUP.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
