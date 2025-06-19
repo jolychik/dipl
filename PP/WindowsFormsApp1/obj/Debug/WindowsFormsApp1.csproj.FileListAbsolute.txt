@@ -1,0 +1,106 @@
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jolychik\Desktop\C#\PP rereboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SP.resources
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SP.resources
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.table.resources
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\jolychik\Desktop\C#\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SP.resources
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.table.resources
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jolychik\Desktop\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SP.resources
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.table.resources
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Virtual_Desktop\Колледж\C# all projects\PP reboot\PP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
